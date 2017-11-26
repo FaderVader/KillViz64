@@ -1,0 +1,7 @@
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\bin\Debug\KillViz64Bit.exe.config
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\bin\Debug\KillViz64Bit.exe
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\bin\Debug\KillViz64Bit.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\obj\Debug\KillViz64Bit.csproj.CoreCompileInputs.cache
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\obj\Debug\KillViz64Bit.exe
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\obj\Debug\KillViz64Bit.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\KillViz64Bit\KillViz64Bit\obj\Debug\KillViz64Bit.csprojResolveAssemblyReference.cache
